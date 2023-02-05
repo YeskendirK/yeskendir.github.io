@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
@@ -24,7 +24,7 @@ horizontal: false
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
-    </div>
+ annou   </div>
   </div>
   {%- else -%}
   <div class="grid">
