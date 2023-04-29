@@ -12,7 +12,7 @@
   year={2020},
   organization={Springer},
   arxiv={2011.04994},
-  abbr={Workshop},
+  abbr={ECCV},
   abstract={This paper reviews the second AIM learned ISP challenge and provides the description of the proposed solutions and results. The participating teams were solving a real-world RAW-to-RGB mapping problem, where to goal was to map the original low-quality RAW images captured by the Huawei P20 device to the same photos obtained with the Canon 5D DSLR camera. The considered task embraced a number of complex computer vision subtasks, such as image demosaicing, denoising, white balancing, color and contrast correction, demoireing, etc. The target metric used in this challenge combined fidelity scores (PSNR and SSIM) with solutions' perceptual results measured in a user study. The proposed solutions significantly improved the baseline results, defining the state-of-the-art for practical image signal processing pipeline modeling.}
 }
 
@@ -21,11 +21,12 @@
   author={Koishekenov, Yeskendir},
   journal={Accepted to The Ninth International Workshop on Deep Learning on Graphs: Method and Applications (DLG-AAAI'23)},
   arxiv={2301.02924},
-  abbr={Workshop},
+  abbr={AAAI},
   code={https://github.com/YeskendirK/Reducing-Oversmoothing},
   year={2023},
   abstract={Graph Neural Networks (GNNs) have achieved a lot of success with graph-structured data. However, it is observed that the performance of GNNs does not improve (or even worsen) as the number of layers increases. This effect has known as over-smoothing, which means that the representations of the graph nodes of different classes would become indistinguishable when stacking multiple layers. In this work, we propose a new simple, and efficient method to alleviate the effect of the over-smoothing problem in GNNs by explicitly using relations between node embeddings. Experiments on real-world datasets demonstrate that utilizing node embedding relations makes GNN models such as Graph Attention Network more robust to over-smoothing and achieves better performance with deeper GNNs. Our method can be used in combination with other methods to give the best performance. GNN applications are endless and depend on the user's objective and the type of data that they possess. Solving over-smoothing issues can potentially improve the performance of models on all these tasks.},
-  selected={true}
+  selected={true},
+  website={https://deep-learning-graphs.bitbucket.io/dlg-aaai23/publications.html}
 }
 
 @article{koishekenov2022memory,
@@ -37,12 +38,25 @@
   selected={true}
 }
 
+@inproceedings{
+    koishekenov2023an,
+    title={An Exploration of Conditioning Methods in Graph Neural Networks},
+    author={Yeskendir Koishekenov and Erik J Bekkers},
+    abbr={ICLR},
+    booktitle={ICLR 2023 - Machine Learning for Drug Discovery workshop},
+    year={2023},
+    url={https://openreview.net/forum?id=11vXmgtP8iF},
+    website={https://sites.google.com/view/mldd-2023/accepted-papers_1},
+    abstract={The flexibility and effectiveness of message passing based graph neural networks (GNNs) induced considerable advances in deep learning on graph-structured data. In such approaches, GNNs recursively update node representations based on their neighbors and they gain expressivity through the use of node and edge attribute vectors. E.g., In computational tasks such as physics and chemistry usage of edge attributes such as relative position or distance proved to be essential. In this work, we address not what kind of attributes to use, but how to condition on this information to improve model performance. We consider three types of conditioning; weak, strong, and pure, which respectively relate to concatenation-based conditioning, gating, and transformations that are causally dependent on the attributes. This categorization provides a unifying viewpoint on different classes of GNNs, from separable convolutions to various forms of message passing networks. We provide an empirical study on the effect of conditioning methods in several tasks in computational chemistry.},
+    selected={true}
+}
+
 @inproceedings{de2021reproducibility,
   title={Reproducibility study of" Data-Driven Methods for Balancing Fairness and Efficiency in Ride-Pooling"},
   author={De Boer, Sarah and Cosma, Radu Alexandru and Knobel, Lukas and Koishekenov, Yeskendir and Shaffrey, Benjamin},
   booktitle={ML Reproducibility Challenge 2021 (Fall Edition)},
   pdf={https://zenodo.org/record/6574637/files/article.pdf},
-  abbr={Journal},
+  abbr={ReScience},
   code={https://github.com/reproducibilityaccount/reproducing-ridesharing},
   abstract={Our work attempts to verify two methods to mitigate forms of inequality in ride‐pooling platforms proposed in the paper Data-Driven Methods for Balancing Fairness and Efficiency in Ride-Pooling: (1) integrating fairness constraints into the objective functions and (2) redistributing income of drivers. We extend this paper by testing for robustness to a change in the neighbourhood selection process by using actual Manhattan neighbour‐ hoods and we use corresponding demographic data to examine differences in service based on ethnicity.},
   year={2022}

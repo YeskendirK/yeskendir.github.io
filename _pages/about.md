@@ -17,7 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! Welcome to my personal webpage.
 
-I am second-year master's student at the University of Amsterdam.
+Currently, I am a second-year master's student at the University of Amsterdam.
 
-I have broad research interests in Machine Learning including Natural Language Processing, Geometric Deep Learning, Graph Neural Networks, Genrative Models.
+I have ~3 years of industry machine learning experience. My research works were published in venues like ECCV, AAAI, ICLR, and ReScience.
+I have broad research interests in Machine Learning including Natural Language Processing, Geometric Deep Learning, Graph Neural Networks, and Generative Models.
 
+I am looking for full-time opportunities starting in Fall 2023.
