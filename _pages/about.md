@@ -19,7 +19,7 @@ Hello! Welcome to my personal webpage.
 
 Currently, I am a second-year master's student at the University of Amsterdam.
 
-I have ~3 years of industry machine learning experience. My research works were published in venues like ECCV, AAAI, ICLR, and ReScience.
-I have broad research interests in Machine Learning including Natural Language Processing, Geometric Deep Learning, Graph Neural Networks, and Generative Models.
+I have ~3 years of industry machine learning experience, acquired after obtaining my undergraduate degree. My research works were published in venues like ECCV, AAAI, ICLR, ICCV, and ReScience.
+I have broad research interests in Machine Learning including Natural Language Processing, Geometric Deep Learning, Graph Neural Networks, etc.
 
 I am looking for full-time opportunities starting in Fall 2023.

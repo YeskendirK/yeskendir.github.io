@@ -43,7 +43,7 @@ nav_order: 1
                 <em>Amsterdam, Netherlands</em>
             </div>
             <div class="col-sm-8">
-                <div class="title"><b>Student Researcher</b></div>
+                <div class="title"><b>Student Researcher (Advisor: Prof Erik J. Bekkers)</b></div>
                 June, 2022 - present
             </div>
         </div>
@@ -89,6 +89,28 @@ nav_order: 1
             <div class="col-sm-8">
                 <div class="title"><b>Research Intern</b></div>
                 March, 2019 - August, 2019
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-sm-4 abbr">
+                <div class="title">Algorithmic Intelligence Laboratory, KAIST</div>
+                <em>Daejeon, South Korea</em>
+            </div>
+            <div class="col-sm-8">
+                <div class="title"><b>Undergraduate Researcher (Advisor: Prof. Jinwoo Shin)</b></div>
+                January, 2018 - June, 2018
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-sm-4 abbr">
+                <div class="title">Control Laboratory, KAIST</div>
+                <em>Daejeon, South Korea</em>
+            </div>
+            <div class="col-sm-8">
+                <div class="title"><b>Undergraduate Researcher (Advisor: Prof. Dong Eui Chang)</b></div>
+                July, 2017 – December, 2017
             </div>
         </div>
 </div>
