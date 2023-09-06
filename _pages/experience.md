@@ -16,7 +16,7 @@ nav_order: 1
             </div>
             <div class="col-sm-8">
                 <div class="title"><b>University of Amsterdam</b></div>
-                September, 2021 - present
+                September, 2021 - August, 2023
             </div>
         </div>
         <br>
@@ -44,7 +44,7 @@ nav_order: 1
             </div>
             <div class="col-sm-8">
                 <div class="title"><b>Student Researcher (Advisor: Prof Erik J. Bekkers)</b></div>
-                June, 2022 - present
+                June, 2022 - August, 2023
             </div>
         </div>
         <br>
@@ -77,7 +77,7 @@ nav_order: 1
             </div>
             <div class="col-sm-8">
                 <div class="title"><b>Machine Learning Engineer</b></div>
-                December, 2020 - February, 2021
+                December, 2019 - February, 2021
             </div>
         </div>
         <br>

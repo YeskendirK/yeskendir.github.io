@@ -18,3 +18,6 @@ nav_order: 2
 {% endfor %}
 
 </div>
+
+<div class="section_title">* equal contribution</div>
+

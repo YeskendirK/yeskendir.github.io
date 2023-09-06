@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! Welcome to my personal webpage.
 
-Currently, I am a second-year master's student at the University of Amsterdam.
+I have recently graduated from master's program in AI at the University of Amsterdam.
 
 I have ~3 years of industry machine learning experience, acquired after obtaining my undergraduate degree. My research works were published in venues like ECCV, AAAI, ICLR, ICCV, and ReScience.
 I have broad research interests in Machine Learning including Natural Language Processing, Geometric Deep Learning, Graph Neural Networks, etc.
